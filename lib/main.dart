@@ -131,7 +131,7 @@ class _StudentListPageState extends State<StudentListPage> {
       appBar: AppBar(
         title: Text('Lista de Compras'),
       ),
-      backgroundColor: Color.fromARGB(255, 109, 219, 215),
+      backgroundColor: Color.fromARGB(255, 136, 181, 179),
       body: ListView.builder(
         itemCount: products.length,
         itemBuilder: (context, index) {
