@@ -4,4 +4,4 @@ APK: https://github.com/BiaSantos01/listaDeCompras/blob/4fb7e3ff460c2321f3d63b7d
 
 ![Listadecompras](https://github.com/BiaSantos01/listaDeCompras/assets/133895171/de32fd10-92ff-43d4-871f-ef618cffddd6)
 
-
+![editarinformacoesdalista](https://github.com/BiaSantos01/listaDeCompras/assets/133895171/1c3c5fe3-8981-444b-9743-86005215e285)
